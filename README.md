@@ -4,23 +4,18 @@ Welcome to my Python projects repository! This collection showcases small, self-
 
 ## 📂 Projects
 
-### 🧮 Arithmetic Formatter
-A utility that neatly arranges multiple arithmetic problems (addition & subtraction) side-by-side, with optional display of their answers. Includes input validation for operators, digit-only numbers, and maximum digit length.
+All projects below live in the [`projects/`](https://github.com/melkamu-by/python-file/tree/main/projects) folder:
 
-- 🔗 [View Source](https://github.com/melkamu-by/python-file/blob/main/projects/ArithmeticFormatter.py)
+| # | Project | Description | Link |
+|---|---------|--------------|------|
+| 1 | 🧮 **Arithmetic Formatter** | Neatly arranges multiple arithmetic problems (addition & subtraction) side-by-side, with optional display of answers. Validates operators, ensures digit-only numbers, and enforces a max digit length. | [ArithmeticFormatter.py](https://github.com/melkamu-by/python-file/blob/main/projects/ArithmeticFormatter.py) |
+| 2 | ⏰ **Time Calculator** | Calculates a new time given a starting time and a duration, with an optional starting day of the week. Handles 12-hour AM/PM format, day rollovers, and multi-day durations. | [TimeCalculator.py](https://github.com/melkamu-by/python-file/blob/main/projects/TimeCalculator.py) |
 
-### ⏰ Time Calculator
-Calculates a new time given a starting time, a duration to add, and an optional starting day of the week. Handles 12-hour AM/PM format, day rollovers, and multi-day durations.
+### 🃏 Other Projects
 
-- 🔗 [View Source](https://github.com/melkamu-by/python-file/blob/main/projects/TimeCalculator.py)
-
-### 🃏 Blackjack
-A fully playable command-line Blackjack game built with object-oriented Python. Features include:
-- `Card` and `Deck` classes with shuffling and dealing logic
-- `Hand` class with Ace value adjustment and blackjack detection
-- A `Game` class that manages multiple rounds, hit/stand choices, and dealer logic (hits until 17)
-
-- 🔗 [View Source](https://github.com/melkamu-by/python-file/blob/main/Blackjack.py)
+| Project | Description | Link |
+|---------|--------------|------|
+| **Blackjack** | A fully playable command-line Blackjack game built with object-oriented Python, featuring `Card`, `Deck`, `Hand`, and `Game` classes with dealer logic (hits until 17) and multi-round play. | [Blackjack.py](https://github.com/melkamu-by/python-file/blob/main/Blackjack.py) |
 
 ## 🛠️ Tech Stack
 
